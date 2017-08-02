@@ -1,0 +1,26 @@
+{
+  "name": "command-line-todo-list-with-callbacks",
+  "version": "1.0.0",
+  "description": "This benchmark modules is the 2nd of a series of modules designed to take the same problem and make it increasingly more complex as you learn new skills.",
+  "main": "task",
+  "dependencies": {
+    "console.table": "^0.8.0"
+  },
+  "devDependencies": {
+    "chai": "^4.1.0",
+    "mocha": "^3.5.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaycribas/command-line-todo-list-with-callbacks.git"
+  },
+  "author": "Jay Cribas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jaycribas/command-line-todo-list-with-callbacks/issues"
+  },
+  "homepage": "https://github.com/jaycribas/command-line-todo-list-with-callbacks#readme"
+}
